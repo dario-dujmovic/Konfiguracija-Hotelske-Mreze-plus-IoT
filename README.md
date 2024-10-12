@@ -1,2 +1,3 @@
-# Konfiguracija-Hotelske-Mreze-plus-IoT
-Završni rad go brr
+## Konfiguracija-Hotelske-Mreze-plus-IoT
+# Objašnjenje programa
+- Konfiguriranje 
